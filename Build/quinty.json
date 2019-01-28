@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "quinty",
+"productVersion": "0.1",
+"dataUrl": "quinty.data.unityweb",
+"asmCodeUrl": "quinty.asm.code.unityweb",
+"asmMemoryUrl": "quinty.asm.memory.unityweb",
+"asmFrameworkUrl": "quinty.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0a14"
+}
